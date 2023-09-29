@@ -2,8 +2,8 @@
 
 # Mitt första GitHub-försök
 
-Hejsan! Jag heter Mats och går första året på webbutvecklingsprogrammet på mittuniversitetet. Hoppas att efter dessa två åren kunna skapa inspirerande innehåll på webben
-Detta är mitt första försök att lära mig Git och GitHub. Ska bli kul att bli bättre och förstå mer hur det är uppbyggt
+Hejsan! Jag heter Mats och går första året på webbutvecklingsprogrammet på mittuniversitetet. Hoppas att efter dessa två åren kunna skapa inspirerande innehåll på webben.
+Detta är mitt första försök att lära mig Git och GitHub. Ska bli kul att utvecklas och förstå mer hur det är uppbyggt
 
 ## Det går att kontakta mig på
 
