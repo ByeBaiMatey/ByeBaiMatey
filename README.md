@@ -2,7 +2,7 @@
 
 Heya guys! My name is Mats and attend the second semester at the universityprogram Web development at Mittuniversitetet Sweden. 
 
-## You can reach out to me at
+ You can reach out to me at:
 
 E-post: [mamo0303@student.miun.se](mailto:mamo0303@student.miun.se)
 
