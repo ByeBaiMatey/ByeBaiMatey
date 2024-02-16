@@ -1,13 +1,11 @@
-# Hejsan Alla!
+# Welcome!
 
-# Mitt första GitHub-försök
+Heya guys! My name is Mats and attend the second semester at the universityprogram Web development at Mittuniversitetet Sweden. 
 
-Hejsan! Jag heter Mats och går första året på webbutvecklingsprogrammet på mittuniversitetet. Hoppas att efter dessa två åren kunna skapa inspirerande innehåll på webben.
-Detta är mitt första försök att lära mig Git och GitHub. Ska bli kul att utvecklas och förstå mer hur det är uppbyggt
-
-## Det går att kontakta mig på
+## You can reach out to me at
 
 E-post: [mamo0303@student.miun.se](mailto:mamo0303@student.miun.se)
+
 
 
 
